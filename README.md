@@ -1,4 +1,4 @@
 # uptask
 
 
-![alt text](Captura.png "Title")
+![image info](./Captura.PNG)
